@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kushal Goel</h1>
-<h3 align="center">A passionate software developer from Canada</h3>
-
-- 🏫 I’m currently studying at the **University of Waterloo**  
+<h1 align="center">Kushal Goel</h1>
+<h3 align="center">Software Developer</h3>
+<p> I love coding and math and am currently studying computer science at the University of Waterloo. </p>
